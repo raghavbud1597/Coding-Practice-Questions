@@ -1,7 +1,7 @@
 /* Question - Find the maximum Length of the palindrone string possible from the given small case charecter string
 input - string = "abbsbbcddca"
 output = 8
-time complexity - O(n)
+time complexity - O(n);
 */
 #include<bits/stdc++.h>
 using namespace std;
